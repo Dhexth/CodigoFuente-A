@@ -1,0 +1,15 @@
+# Dependencias
+BACKEND/node_modules
+FRONTEND/node_modules
+
+# Archivos de entorno (¡NUNCA subir estos!)
+.env
+BACKEND/.env
+FRONTEND/.env
+
+# Archivos del sistema / logs
+.DS_Store
+*.log
+
+# Carpeta de uploads (generalmente no se sube contenido dinámico)
+BACKEND/uploads/
