@@ -13,3 +13,7 @@ FRONTEND/.env
 
 # Carpeta de uploads (generalmente no se sube contenido dinámico)
 BACKEND/uploads/
+
+# SonarQube
+BACKEND/.scannerwork/
+BACKEND/sonar-project.properties
